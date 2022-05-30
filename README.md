@@ -1,3 +1,8 @@
+yarn add prettier promise cross-env eslint-plugin-unused-imports js-beautify source-map-explorer -D
+
+nodemodules 2022-05-30과 같이 사용
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
